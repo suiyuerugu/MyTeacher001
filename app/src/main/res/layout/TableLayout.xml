@@ -9,7 +9,7 @@
         android:id="@+id/tablelayout01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:shrinkColumns="0"
+        android:shrinkColumns="1"
         android:stretchColumns="2" >
         <!-- 直接添加按钮，自己占用一行 -->
         <Button
