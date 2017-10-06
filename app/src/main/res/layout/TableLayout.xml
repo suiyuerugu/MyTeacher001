@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
-    <!-- 定义第一个表格，指定第2列允许收缩，第3列允许拉伸 -->
+    <!-- 定义第一个表格，指定第2列允许收缩，第3列允许拉伸 ID从0开始 -->
     <TableLayout
         android:id="@+id/tablelayout01"
         android:layout_width="match_parent"
