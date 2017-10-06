@@ -20,9 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv=new TextView(this);
         tv.setText("16软2");
-
         ll.addView(tv,lp);
-
         setContentView(ll);
     }
 }
